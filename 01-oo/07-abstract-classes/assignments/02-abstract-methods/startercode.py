@@ -1,4 +1,4 @@
-class A:
+class A():
     def a(self):
         self.b()
 
